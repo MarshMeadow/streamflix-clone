@@ -1,4 +1,4 @@
-<h1 align="center">Streamflix</h1>
+<h1 align="center">Streamflix Clone</h1>
 
 <p align="center">
   <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
